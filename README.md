@@ -1,2 +1,2 @@
 # NeuralNetworkAlgorithm
-Deep Learning Neural Network Algo
+Deep Learning Neural Network Algo in python
